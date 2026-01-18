@@ -1,0 +1,1 @@
+# kohru-copy-mac-to-win-for-claude
